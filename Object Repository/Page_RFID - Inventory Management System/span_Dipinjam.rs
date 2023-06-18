@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Dipinjam</name>
+   <tag></tag>
+   <elementGuidId>cf443e65-97df-49de-851c-0f71d6b8c711</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiButtonBase-root.MuiChip-root.MuiChip-colorPrimary.MuiChip-clickableColorPrimary.MuiChip-outlined.MuiChip-outlinedPrimary.MuiChip-sizeSmall.MuiChip-clickable > span.MuiChip-label.MuiChip-labelSmall</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/main/div[2]/div/div/div/div/div[3]/div/div[6]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a7240bd5-8980-4fa1-a1f7-c26f85807265</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiChip-label MuiChip-labelSmall</value>
+      <webElementGuid>9b7243bf-5bcc-4112-868e-e38ab10e7394</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dipinjam</value>
+      <webElementGuid>61ed616f-d8f2-40ed-b3f5-0c4f1783239e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;animated fadeIn&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation1 MuiPaper-rounded&quot;]/div[@class=&quot;MuiBox-root jss7&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-direction-xs-column&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1 MuiGrid-align-items-xs-center&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item&quot;]/div[@class=&quot;MuiButtonBase-root MuiChip-root MuiChip-colorPrimary MuiChip-clickableColorPrimary MuiChip-outlined MuiChip-outlinedPrimary MuiChip-sizeSmall MuiChip-clickable&quot;]/span[@class=&quot;MuiChip-label MuiChip-labelSmall&quot;]</value>
+      <webElementGuid>3dddc51b-5b36-4a00-82f0-cab4f2c093e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/main/div[2]/div/div/div/div/div[3]/div/div[6]/div/span</value>
+      <webElementGuid>a0fda508-9072-4c9a-83c2-bf4afd054b7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Diizinkan'])[1]/following::span[2]</value>
+      <webElementGuid>73e24b17-c97d-4934-84cd-a490948d23d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menunggu'])[1]/following::span[4]</value>
+      <webElementGuid>d1d4457f-dc5a-4d67-8b6e-0db43a407c37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout Tanpa Izin'])[1]/preceding::span[4]</value>
+      <webElementGuid>7d09aeb2-6fb6-4fc0-a0b3-e3dc9b798a51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ditebus'])[1]/preceding::span[6]</value>
+      <webElementGuid>e57f961a-a273-4485-adaa-4bfe86609804</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dipinjam']/parent::*</value>
+      <webElementGuid>f816c877-e661-4b94-8a26-b040fc0f69c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/span</value>
+      <webElementGuid>be5354a9-b420-4604-befa-19888f2f34ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Dipinjam' or . = 'Dipinjam')]</value>
+      <webElementGuid>f90f884d-b920-472b-a5ea-1cb8138f8c6e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

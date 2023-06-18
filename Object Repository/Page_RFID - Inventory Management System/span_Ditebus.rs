@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Ditebus</name>
+   <tag></tag>
+   <elementGuidId>e05a535c-f880-41c7-95e2-ca01976d858d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiButtonBase-root.MuiChip-root.MuiChip-colorPrimary.MuiChip-clickableColorPrimary.MuiChip-outlined.MuiChip-outlinedPrimary.MuiChip-sizeSmall.MuiChip-clickable > span.MuiChip-label.MuiChip-labelSmall</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/main/div[2]/div/div/div/div/div[3]/div/div[8]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>46d4affb-7e3e-407e-92fc-c770e300d826</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiChip-label MuiChip-labelSmall</value>
+      <webElementGuid>77acbb03-e404-4662-a4ec-5c2cabc71110</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ditebus</value>
+      <webElementGuid>c774b2e4-76b6-4bae-88f3-f27779af6a54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;animated fadeIn&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation1 MuiPaper-rounded&quot;]/div[@class=&quot;MuiBox-root jss7&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-direction-xs-column&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1 MuiGrid-align-items-xs-center&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item&quot;]/div[@class=&quot;MuiButtonBase-root MuiChip-root MuiChip-colorPrimary MuiChip-clickableColorPrimary MuiChip-outlined MuiChip-outlinedPrimary MuiChip-sizeSmall MuiChip-clickable&quot;]/span[@class=&quot;MuiChip-label MuiChip-labelSmall&quot;]</value>
+      <webElementGuid>8d07144c-7424-407b-9e3f-cad04ba721e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/main/div[2]/div/div/div/div/div[3]/div/div[8]/div/span</value>
+      <webElementGuid>e2d11b37-dc6b-4845-a297-aa54ccb4a9e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout Tanpa Izin'])[1]/following::span[2]</value>
+      <webElementGuid>28399c0b-4782-407d-80cd-c36b2b2c7562</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dipinjam'])[1]/following::span[4]</value>
+      <webElementGuid>100bfc18-62f6-431d-8b00-815a3e234cc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Diambil'])[1]/preceding::span[4]</value>
+      <webElementGuid>accc42c5-660d-4def-8970-ba40a0ec58f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dikoreksi'])[1]/preceding::span[6]</value>
+      <webElementGuid>9d4654b7-1b5a-423e-b459-8eeb61a3245c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ditebus']/parent::*</value>
+      <webElementGuid>ceebfdd9-6bdf-4213-a052-5a81d505f57c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/span</value>
+      <webElementGuid>eb6201cc-bc41-4c4d-b558-3445d6d3e1f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Ditebus' or . = 'Ditebus')]</value>
+      <webElementGuid>2d4fbeeb-6b1c-40ed-99bf-3db06abbe436</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,90 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test 1,Chrome 114.0.0.0,,,2023-06-18 23:27:03,2023-06-18 23:29:20,2m - 16.949s,PASSED
+,,,,,,,
+Test Cases/Web App-Login berhasil,Chrome 114.0.0.0,,Inventory,2023-06-18 23:27:03,2023-06-18 23:27:14,10.476s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-18 23:27:03,2023-06-18 23:27:06,2.450s,PASSED
+"navigateToUrl(""https://pegadaian.cloudias79.com/#/"")",Chrome 114.0.0.0,,,2023-06-18 23:27:06,2023-06-18 23:27:07,0.867s,PASSED
+maximizeWindow(),Chrome 114.0.0.0,,,2023-06-18 23:27:07,2023-06-18 23:27:07,0.127s,PASSED
+"setText(findTestObject(""Page_RFID - Inventory Management System/input_Login_username""), ""P29901"")",Chrome 114.0.0.0,,,2023-06-18 23:27:07,2023-06-18 23:27:07,0.700s,PASSED
+"setEncryptedText(findTestObject(""Page_RFID - Inventory Management System/input_Login_password""), ""YFZfyx+NhJE="")",Chrome 114.0.0.0,,,2023-06-18 23:27:07,2023-06-18 23:27:08,0.504s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/button_Login""))",Chrome 114.0.0.0,,,2023-06-18 23:27:08,2023-06-18 23:27:09,0.619s,PASSED
+"waitForElementVisible(findTestObject(""Object Repository/Page_RFID - Inventory Management System/h4_Inventory Management System""), 5)",Chrome 114.0.0.0,,,2023-06-18 23:27:09,2023-06-18 23:27:14,5.021s,PASSED
+,,,,,,,
+Test Cases/Web App-Melihat detail data inventory,Chrome 114.0.0.0,,,2023-06-18 23:27:14,2023-06-18 23:27:28,14.286s,PASSED
+"callTestCase(findTestCase(""Web App-Melihat Halaman Inventory""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-18 23:27:14,2023-06-18 23:27:27,13.002s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/button_Detail""))",Chrome 114.0.0.0,,,2023-06-18 23:27:27,2023-06-18 23:27:28,0.508s,PASSED
+,,,,,,,
+Test Cases/Web App-Melihat Halaman Inventory,Chrome 114.0.0.0,,,2023-06-18 23:27:28,2023-06-18 23:27:39,11.131s,PASSED
+"callTestCase(findTestCase(""Web App-Login berhasil""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-18 23:27:28,2023-06-18 23:27:38,9.744s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/a_Inventory""))",Chrome 114.0.0.0,,,2023-06-18 23:27:38,2023-06-18 23:27:38,0.499s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_RFID - Inventory Management System/li_Inventory""), ""Inventory"")",Chrome 114.0.0.0,,,2023-06-18 23:27:38,2023-06-18 23:27:39,0.878s,PASSED
+,,,,,,,
+Test Cases/Web App-Search data barang jaminan berdasarkan EPC label RFID,Chrome 114.0.0.0,,,2023-06-18 23:27:39,2023-06-18 23:27:52,12.622s,PASSED
+"callTestCase(findTestCase(""Web App-Melihat Halaman Inventory""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-18 23:27:39,2023-06-18 23:27:50,10.681s,PASSED
+"setText(findTestObject(""Inventory Field/input_EPC Label RFID""), ""E000123456Q"")",Chrome 114.0.0.0,,,2023-06-18 23:27:50,2023-06-18 23:27:51,0.696s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/button_Cari""))",Chrome 114.0.0.0,,,2023-06-18 23:27:51,2023-06-18 23:27:51,0.373s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_RFID - Inventory Management System/div_1""), 5)",Chrome 114.0.0.0,,,2023-06-18 23:27:51,2023-06-18 23:27:52,0.559s,PASSED
+,,,,,,,
+Test Cases/Web App-Search data barang jaminan berdasarkan no kredit,Chrome 114.0.0.0,,,2023-06-18 23:27:52,2023-06-18 23:28:04,12.773s,PASSED
+"callTestCase(findTestCase(""Web App-Melihat Halaman Inventory""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-18 23:27:52,2023-06-18 23:28:03,10.797s,PASSED
+"setText(findTestObject(""Inventory Field/input_No. Kredit""), ""13151-23-01-001460-1"")",Chrome 114.0.0.0,,,2023-06-18 23:28:03,2023-06-18 23:28:04,0.762s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/button_Cari""))",Chrome 114.0.0.0,,,2023-06-18 23:28:04,2023-06-18 23:28:04,0.368s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_RFID - Inventory Management System/div_1""), 5)",Chrome 114.0.0.0,,,2023-06-18 23:28:04,2023-06-18 23:28:04,0.554s,PASSED
+,,,,,,,
+Test Cases/Web App-Search data barang jaminan berdasarkan Status,Chrome 114.0.0.0,,,2023-06-18 23:28:04,2023-06-18 23:29:08,1m - 3.130s,PASSED
+"callTestCase(findTestCase(""Web App-Melihat Halaman Inventory""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-18 23:28:05,2023-06-18 23:28:16,10.724s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/span_Teregistrasi""))",Chrome 114.0.0.0,,,2023-06-18 23:28:16,2023-06-18 23:28:16,0.372s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/span_Tersimpan""))",Chrome 114.0.0.0,,,2023-06-18 23:28:16,2023-06-18 23:28:17,0.491s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/span_Menunggu""))",Chrome 114.0.0.0,,,2023-06-18 23:28:17,2023-06-18 23:28:17,0.590s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/span_Diizinkan""))",Chrome 114.0.0.0,,,2023-06-18 23:28:17,2023-06-18 23:28:18,0.453s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/span_Dipinjam""))",Chrome 114.0.0.0,,,2023-06-18 23:28:18,2023-06-18 23:28:19,1.088s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/span_Checkout Tanpa Izin""))",Chrome 114.0.0.0,,,2023-06-18 23:28:19,2023-06-18 23:28:19,0.528s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/span_Ditebus""))",Chrome 114.0.0.0,,,2023-06-18 23:28:19,2023-06-18 23:28:20,0.544s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/span_Diambil""))",Chrome 114.0.0.0,,,2023-06-18 23:28:20,2023-06-18 23:28:20,0.546s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/span_Dikoreksi""))",Chrome 114.0.0.0,,,2023-06-18 23:28:20,2023-06-18 23:28:21,0.553s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/span_Kadaluwarsa""))",Chrome 114.0.0.0,,,2023-06-18 23:28:21,2023-06-18 23:28:21,0.550s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/span_Teregistrasi""))",Chrome 114.0.0.0,,,2023-06-18 23:28:21,2023-06-18 23:28:22,0.555s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/button_Cari""))",Chrome 114.0.0.0,,,2023-06-18 23:28:22,2023-06-18 23:28:22,0.563s,PASSED
+if (true),Chrome 114.0.0.0,,,2023-06-18 23:28:22,2023-06-18 23:28:24,1.378s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/span_Teregistrasi""))",Chrome 114.0.0.0,,,2023-06-18 23:28:24,2023-06-18 23:28:24,0.329s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/span_Tersimpan""))",Chrome 114.0.0.0,,,2023-06-18 23:28:24,2023-06-18 23:28:25,0.543s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/button_Cari""))",Chrome 114.0.0.0,,,2023-06-18 23:28:25,2023-06-18 23:28:25,0.556s,PASSED
+if (true),Chrome 114.0.0.0,,,2023-06-18 23:28:25,2023-06-18 23:28:27,1.347s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/span_Tersimpan""))",Chrome 114.0.0.0,,,2023-06-18 23:28:27,2023-06-18 23:28:27,0.325s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/span_Menunggu""))",Chrome 114.0.0.0,,,2023-06-18 23:28:27,2023-06-18 23:28:27,0.537s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/button_Cari""))",Chrome 114.0.0.0,,,2023-06-18 23:28:27,2023-06-18 23:28:28,0.535s,PASSED
+if (true),Chrome 114.0.0.0,,,2023-06-18 23:28:28,2023-06-18 23:28:29,1.356s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/span_Menunggu""))",Chrome 114.0.0.0,,,2023-06-18 23:28:29,2023-06-18 23:28:30,0.319s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/span_Diizinkan""))",Chrome 114.0.0.0,,,2023-06-18 23:28:30,2023-06-18 23:28:30,0.525s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/button_Cari""))",Chrome 114.0.0.0,,,2023-06-18 23:28:30,2023-06-18 23:28:31,0.534s,PASSED
+if (true),Chrome 114.0.0.0,,,2023-06-18 23:28:31,2023-06-18 23:28:32,1.346s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/span_Diizinkan""))",Chrome 114.0.0.0,,,2023-06-18 23:28:32,2023-06-18 23:28:32,0.322s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/span_Dipinjam""))",Chrome 114.0.0.0,,,2023-06-18 23:28:32,2023-06-18 23:28:33,0.545s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/button_Cari""))",Chrome 114.0.0.0,,,2023-06-18 23:28:33,2023-06-18 23:28:34,0.535s,PASSED
+if (true),Chrome 114.0.0.0,,,2023-06-18 23:28:34,2023-06-18 23:28:40,6.232s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/span_Dipinjam""))",Chrome 114.0.0.0,,,2023-06-18 23:28:40,2023-06-18 23:28:40,0.340s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/span_Checkout Tanpa Izin""))",Chrome 114.0.0.0,,,2023-06-18 23:28:40,2023-06-18 23:28:41,0.548s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/button_Cari""))",Chrome 114.0.0.0,,,2023-06-18 23:28:41,2023-06-18 23:28:41,0.560s,PASSED
+if (true),Chrome 114.0.0.0,,,2023-06-18 23:28:41,2023-06-18 23:28:42,1.026s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/span_Checkout Tanpa Izin""))",Chrome 114.0.0.0,,,2023-06-18 23:28:42,2023-06-18 23:28:43,0.320s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/span_Ditebus""))",Chrome 114.0.0.0,,,2023-06-18 23:28:43,2023-06-18 23:28:43,0.531s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/button_Cari""))",Chrome 114.0.0.0,,,2023-06-18 23:28:43,2023-06-18 23:28:44,0.531s,PASSED
+if (true),Chrome 114.0.0.0,,,2023-06-18 23:28:44,2023-06-18 23:28:50,6.315s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/span_Ditebus""))",Chrome 114.0.0.0,,,2023-06-18 23:28:50,2023-06-18 23:28:50,0.316s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/span_Diambil""))",Chrome 114.0.0.0,,,2023-06-18 23:28:50,2023-06-18 23:28:51,0.530s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/button_Cari""))",Chrome 114.0.0.0,,,2023-06-18 23:28:51,2023-06-18 23:28:51,0.529s,PASSED
+if (true),Chrome 114.0.0.0,,,2023-06-18 23:28:51,2023-06-18 23:28:58,6.242s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/span_Diambil""))",Chrome 114.0.0.0,,,2023-06-18 23:28:58,2023-06-18 23:28:58,0.320s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/span_Dikoreksi""))",Chrome 114.0.0.0,,,2023-06-18 23:28:58,2023-06-18 23:28:58,0.537s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/button_Cari""))",Chrome 114.0.0.0,,,2023-06-18 23:28:58,2023-06-18 23:28:59,0.560s,PASSED
+if (true),Chrome 114.0.0.0,,,2023-06-18 23:28:59,2023-06-18 23:29:00,1.028s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/span_Dikoreksi""))",Chrome 114.0.0.0,,,2023-06-18 23:29:00,2023-06-18 23:29:00,0.317s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/span_Kadaluwarsa""))",Chrome 114.0.0.0,,,2023-06-18 23:29:00,2023-06-18 23:29:01,0.532s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/button_Cari""))",Chrome 114.0.0.0,,,2023-06-18 23:29:01,2023-06-18 23:29:01,0.545s,PASSED
+if (true),Chrome 114.0.0.0,,,2023-06-18 23:29:01,2023-06-18 23:29:08,6.211s,PASSED
+,,,,,,,
+Test Cases/Web App-Search data barang jaminan berdasarkan tanggal kontrak,Chrome 114.0.0.0,,,2023-06-18 23:29:08,2023-06-18 23:29:20,12.364s,PASSED
+"callTestCase(findTestCase(""Web App-Melihat Halaman Inventory""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-18 23:29:08,2023-06-18 23:29:18,10.583s,PASSED
+"click(findTestObject(""Inventory Field/button_Tanggal Kontrak""))",Chrome 114.0.0.0,,,2023-06-18 23:29:18,2023-06-18 23:29:19,0.395s,PASSED
+"click(findTestObject(""Inventory Field/button_OK""))",Chrome 114.0.0.0,,,2023-06-18 23:29:19,2023-06-18 23:29:19,0.483s,PASSED
+"click(findTestObject(""Object Repository/Page_RFID - Inventory Management System/button_Cari""))",Chrome 114.0.0.0,,,2023-06-18 23:29:19,2023-06-18 23:29:20,0.746s,PASSED

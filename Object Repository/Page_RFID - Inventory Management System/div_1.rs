@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_1</name>
+   <tag></tag>
+   <elementGuidId>86ac10ef-3eb2-4dfa-8ad7-07f2f80d57e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/main/div[2]/div/div[3]/div/div[3]/div/div[2]/table/tbody/tr/td/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>853873a0-5c7c-407b-a09d-6f17c9908d29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>1df22718-ea7b-4c96-811d-9a9a06611e36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;animated fadeIn&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;react-bs-table-container&quot;]/div[@class=&quot;react-bs-table react-bs-table-bordered&quot;]/div[@class=&quot;react-bs-container-body&quot;]/table[@class=&quot;table table-striped table-bordered table-hover&quot;]/tbody[1]/tr[1]/td[1]/div[1]</value>
+      <webElementGuid>20225b0d-9610-4240-9325-dacf98b7fe5e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/main/div[2]/div/div[3]/div/div[3]/div/div[2]/table/tbody/tr/td/div</value>
+      <webElementGuid>0c277060-f94f-442d-944f-cd08279321cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/following::div[2]</value>
+      <webElementGuid>ffe72c18-9abb-4de7-a7b9-a26be1f0633f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='StatusKredit'])[1]/following::div[3]</value>
+      <webElementGuid>bc1ebb55-5ab5-43a6-8851-c4821fa9bee9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GADAI KCA'])[1]/preceding::div[5]</value>
+      <webElementGuid>8c87aa17-ed0c-4baf-a215-8db622cb7cfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='B1'])[1]/preceding::div[6]</value>
+      <webElementGuid>e946cffe-89e4-4a56-9b56-f69aade8196d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div</value>
+      <webElementGuid>2dc0e861-35b1-4a27-9bc2-960e957b96a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '1' or . = '1')]</value>
+      <webElementGuid>d06eb89e-71fb-40a2-b266-b6a590a6cdc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='B2'])[1]/preceding::div[6]</value>
+      <webElementGuid>3751e945-9a60-494f-94fd-ae5f63efc529</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

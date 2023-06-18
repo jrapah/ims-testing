@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Menunggu</name>
+   <tag></tag>
+   <elementGuidId>ee1db42e-b29a-4ff7-935e-e312e280c289</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiButtonBase-root.MuiChip-root.MuiChip-colorPrimary.MuiChip-clickableColorPrimary.MuiChip-outlined.MuiChip-outlinedPrimary.MuiChip-sizeSmall.MuiChip-clickable > span.MuiChip-label.MuiChip-labelSmall</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/main/div[2]/div/div/div/div/div[3]/div/div[4]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b3f88651-9a33-470e-a2d6-0b45ab76294e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiChip-label MuiChip-labelSmall</value>
+      <webElementGuid>d232fe1d-0c99-417c-ab9e-48fb626e10b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Menunggu</value>
+      <webElementGuid>f285d40f-ff94-4bc7-880e-58d0876831a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;animated fadeIn&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation1 MuiPaper-rounded&quot;]/div[@class=&quot;MuiBox-root jss7&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-direction-xs-column&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1 MuiGrid-align-items-xs-center&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item&quot;]/div[@class=&quot;MuiButtonBase-root MuiChip-root MuiChip-colorPrimary MuiChip-clickableColorPrimary MuiChip-outlined MuiChip-outlinedPrimary MuiChip-sizeSmall MuiChip-clickable&quot;]/span[@class=&quot;MuiChip-label MuiChip-labelSmall&quot;]</value>
+      <webElementGuid>62007d7c-85bd-47b7-b9fb-6ae71dc97242</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/main/div[2]/div/div/div/div/div[3]/div/div[4]/div/span</value>
+      <webElementGuid>effef093-41d4-448f-ab01-8c541c5fb16f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tersimpan'])[1]/following::span[2]</value>
+      <webElementGuid>c707525f-09ba-450d-9f8e-92012b81c6c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Teregistrasi'])[1]/following::span[4]</value>
+      <webElementGuid>7ce7b3d3-50a3-45b9-9f60-dbb33870be41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Diizinkan'])[1]/preceding::span[4]</value>
+      <webElementGuid>f6a93198-940e-4c05-98f6-80b7fd59f66f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dipinjam'])[1]/preceding::span[6]</value>
+      <webElementGuid>b12a86ee-010e-4812-9554-e600001bcfd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Menunggu']/parent::*</value>
+      <webElementGuid>b3039952-4f63-4a90-aa93-edfd0ddc4de5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/span</value>
+      <webElementGuid>78fe35b9-aae3-4058-a767-7739ff99e3b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Menunggu' or . = 'Menunggu')]</value>
+      <webElementGuid>5c3ce02d-d7c9-4d3c-bb09-3b6eb45e16fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

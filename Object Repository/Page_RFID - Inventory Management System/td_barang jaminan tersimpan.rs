@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_barang jaminan tersimpan</name>
+   <tag></tag>
+   <elementGuidId>52af1344-cc5c-4a49-b85e-bf7bb1e484a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(8)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/main/div[2]/div/div[3]/div/div[3]/div/div[2]/table/tbody/tr/td[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>4d6aaf53-8662-44de-82fa-a0e505b1f739</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>8</value>
+      <webElementGuid>dc5b9442-d559-4056-a54c-66d31f63a210</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>barang jaminan tersimpan</value>
+      <webElementGuid>7879df1e-867d-460a-8bea-e8081d48426d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;animated fadeIn&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;react-bs-table-container&quot;]/div[@class=&quot;react-bs-table react-bs-table-bordered&quot;]/div[@class=&quot;react-bs-container-body&quot;]/table[@class=&quot;table table-striped table-bordered table-hover&quot;]/tbody[1]/tr[1]/td[8]</value>
+      <webElementGuid>7e54b3db-2900-4558-8214-158f801bea8b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/main/div[2]/div/div[3]/div/div[3]/div/div[2]/table/tbody/tr/td[8]</value>
+      <webElementGuid>03b1e15c-45b5-4b11-9c1f-343d5fff3ad9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='B3'])[1]/following::td[1]</value>
+      <webElementGuid>69b05172-dde4-47ac-9c0a-352ac4076fb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GADAI KCA'])[1]/following::td[2]</value>
+      <webElementGuid>7fad4e76-a54c-4521-9dfa-bd1040527330</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PG-PUNGKUR-23'])[1]/preceding::td[1]</value>
+      <webElementGuid>89705d99-2552-4cbc-ab8f-cf5647081ed8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[8]</value>
+      <webElementGuid>2697df0d-3ddb-4cf3-8c18-24c53f1ef26e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'barang jaminan tersimpan' or . = 'barang jaminan tersimpan')]</value>
+      <webElementGuid>4979e08f-ae5f-4260-ac18-56bb0854302f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

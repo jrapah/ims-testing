@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_InventoryLabel ManagementData Label</name>
+   <tag></tag>
+   <elementGuidId>c1014bf3-d83e-4843-a723-4e19a53ceb62</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.nav</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div/div/ul</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>9ac91890-00ac-488e-b34c-fd6940f01469</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav</value>
+      <webElementGuid>33a41232-ff1c-4ccd-a9f1-ea966a1d09e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>InventoryLabel ManagementData Label</value>
+      <webElementGuid>95f2b854-9c47-4147-9313-885858a7307a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app&quot;]/div[@class=&quot;app-body&quot;]/div[@class=&quot;navbar-bg-dark-green sidebar&quot;]/div[@class=&quot;scrollbar-container sidebar-nav ps&quot;]/ul[@class=&quot;nav&quot;]</value>
+      <webElementGuid>2521b8bf-95eb-4a3a-a037-0c9b861d1274</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div/ul</value>
+      <webElementGuid>7aeb7a8b-6251-4540-a90a-ba1cbdb97c82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::ul[1]</value>
+      <webElementGuid>cd6dffcc-15e8-45d9-96bd-87ba17cdf196</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ubah Password'])[1]/following::ul[1]</value>
+      <webElementGuid>fd6356fb-1f3f-4a35-b481-71c93510f846</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul</value>
+      <webElementGuid>b87c0000-eb8e-4d51-bf17-aefb65424f61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ul[(text() = 'InventoryLabel ManagementData Label' or . = 'InventoryLabel ManagementData Label')]</value>
+      <webElementGuid>8111d4ae-f2a5-46b8-8660-f9636cb6708f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Web App-Login berhasil</name>
+   <tag>Inventory</tag>
+   <comment></comment>
+   <testCaseGuid>e0880922-18ac-4731-804e-79ee88b5ca6b</testCaseGuid>
+</TestCaseEntity>
